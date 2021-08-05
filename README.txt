@@ -8,3 +8,4 @@ To-Do:
 	Design an outer case for the macropad edges
 	Macros for my utilities 	
 
+There are a few files that are installed from initial setup of the rp2040.
