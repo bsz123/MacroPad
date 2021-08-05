@@ -9,3 +9,4 @@ To-Do:
 	Macros for my utilities 	
 
 There are a few files that are installed from initial setup of the rp2040.
+https://circuitpython.org/board/adafruit_macropad_rp2040/
